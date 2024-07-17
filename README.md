@@ -17,11 +17,11 @@ To set up this project locally, follow these steps:
 
 1. Clone the repository
    ```
-   git clone https://github.com/yourusername/bjj-technique-generator.git
+   git clone https://github.com/Tyler-Beck/bjjtechniques
    ```
 2. Navigate to the project directory
    ```
-   cd bjj-technique-generator
+   cd bjjtechniques
    ```
 3. Install dependencies
    ```
