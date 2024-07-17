@@ -1,4 +1,4 @@
-# Random Brazilian Jiu-Jitsu Technique Generator
+# Brazilian Jiu-Jitsu Technique Generator
 
 ## Overview
 This project is a Random Brazilian Jiu-Jitsu (BJJ) Technique Generator designed to help BJJ practitioners gain clarity in their training. By providing random techniques, it encourages practitioners to explore a diverse range of moves and strategies, potentially broadening their skill set and understanding of the art.
